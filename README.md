@@ -11,7 +11,9 @@ Compiling or transforming code.
 Archiving materials.
 Testing.
 Deploying to different environments.
-Therefore, a build is one run of a defined project with various steps.
+Therefore, a build is one run of a defined project with various steps.   
+
+## TASK 1
  
  ## User Story
  Make a simple Java application and create a continuous integration env. ensure the action "Build now" process every 15 minutes if anything changes in code (Git Repo).   
