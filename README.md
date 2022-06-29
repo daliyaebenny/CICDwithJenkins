@@ -22,4 +22,19 @@ Therefore, a build is one run of a defined project with various steps.
 - A piece of code in Repo in Java.
 - Configure Git on Jenkins (Git-bash must be installed)
 - A Master or slave instance to run it.
-- A Jenkins job that create builds every 15 seconds
+- A Jenkins job that create builds every 15 seconds   
+
+## TASK 2  
+
+## User Story
+ Make a Web Application using spring Boot with JPA and make a CI using Maven commands in Jenkins Jobs configurations. 
+ 
+ ## Acceptance Criteria        
+- Install Maven
+- Git Repository
+- Web Application using spring Boot with JPA.
+- Configure Git on Jenkins (Git-bash must be installed)
+- Configure Maven on Jenkins
+- A Master or slave instance to run it.
+- A Jenkins job that create builds.  
+
